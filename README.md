@@ -36,6 +36,6 @@ Other characteristics of the graph that we plan to get are connectivity of the d
 ## References:
 1. Timoté Vaucher, Andreas Spitz, Michele Catasta, and Robert West. 2021. Quotebank: A Corpus of Quotations from a Decade of News. In The Four- teenth ACM International Conference on Web Search and Data Mining (WSDM ’21), March 8–12, 2021, Virtual Event, Israel. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3437963.3441760
 2. M. E. J. Newman, M. Girvan Finding and evaluating community structure in networks // Physical review E, 2004. Vol. 69.
-3. Gao, Z. & Liu, X. (2017). Personalized Community Detection in Scholarly Network. In iConference 2017 Proceedings, Vol. 2 (pp. 107-112). https://doi.org/10.9776/17216
+3. Gao, Z. & Liu, X. (2017). Personalized Community Detection in Scholarly Network. In iConference 2017 Proceedings, Vol. 2 (pp. 107-112). http://hdl.handle.net/2142/98863
 4. https://networkx.org/documentation/stable/_modules/networkx/algorithms/centrality/katz.html
 5. https://graphscope.io/docs/v0.1.1/reference/networkx/builtin.html
