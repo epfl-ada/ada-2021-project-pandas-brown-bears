@@ -12,7 +12,7 @@ In this project, our intention is to reveal the unobvious relationships between 
 * **Does the number of speaker’s quotes in the dataset correlate with his/her influence?**
     - Since the quotation rate of a person can be also considered as a measure of his/her exposure to the public (the more news sources quote the speaker, the more impact he/she has), we are going to analyze which people satisfy both of the criteria.
 * **What potential/hidden communities do the speakers form? And how do they link together?**
-    - In general, we tend to classify people by their occupations, genders, races, etc. But are there potential communities that aren’t that obvious? We are looking forward to discovering hidden communities with a clustering algorithm, and try to investigate how these latent communities form.
+    - In general, we tend to classify people by their occupations, genders, races, etc. But are there potential communities that aren’t that obvious? We are looking forward to discovering hidden communities with a clustering algorithm, and trying to investigate how these latent communities form.
 * **How does the “influence network” evolve over 2015-2020?**
     - After the construction of the “influence network”, we would like to study further its evolution in these 6 years and answer questions: Whose influence increases over time and whose decreases? Who joined and who left the ‘most influential people’ community? etc.
 
