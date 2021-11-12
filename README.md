@@ -8,7 +8,7 @@ Influence has long been studied in the fields of sociology, communication and po
 * What hidden communities do the speakers form? How do they link together? 
 * How does the dynamic “influence network” evolve over 2015-2020 years?
 ## Proposed additional datasets (if any): 
-Metadata about the speakers in the Quotebank dataset gathered in the `speaker_attributes.parquet file`. We will use it for detection of the same people called different ways in the Quotebank dataset (`aliases` feature) and for analysis of politicians' proportion among the most influential speakers (`occupation` feature).   
+Metadata about the speakers in the Quotebank dataset gathered in the `speaker_attributes.parquet` file. We will use it for detection of the same people called different ways in the Quotebank dataset (`aliases` feature) and for analysis of politicians' proportion among the most influential speakers (`occupation` feature).   
 ## Methods:
 In order to determine the most influential people in the network, we will use `Katz centrality` measure for directed graphs. 
 
