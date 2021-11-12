@@ -16,7 +16,7 @@ Further, we will apply a community detection algorithm named `Girvan-Newman` to 
 
 In order to track the evolution and structure of communities over the time, we will use `Jaccard similarity`. 
 
-Other characteristics of the graph that we plan to get are connectivity of the directed graph and its in-degree distribution. As the “influence network” representation, we draw a graph using the NetworkX Python library, also we plan to show the relationships between the most authoritative persons by plotting a heatmap.
+Other characteristics of the graph that we plan to get are connectivity of the directed graph and its in-degree distribution. As the “influence network” representation, we draw a graph using the `NetworkX Python library`, also we plan to show the relationships between the most authoritative persons by plotting a heatmap.
 ## Proposed Timeline:
 |  Time   | Work  |
 |  ----  | ----  |
