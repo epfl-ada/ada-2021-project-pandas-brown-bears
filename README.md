@@ -18,7 +18,7 @@ Metadata about the speakers in the Quotebank dataset gathered in the `speaker_at
 ## Methods:
 In order to determine the most influential people in the network, we will use `Katz centrality` measure for directed graphs. 
 
-Further, we will apply a community detection algorithm named `Girvan-Newman` to decompose the most influential speakers’ neighborhood into different heavily interlinked groups, which results in a hierarchical clustering. Since the Girvan-Newman method encounters some problems when applied to some directed graphs with special structure, then our approach is to treat a directed graph as undirected when using this method for community detection. We will use `modularity` to evaluate the quality of a community clustering. 
+Further, we will apply a community detection algorithm named `Girvan-Newman` to decompose the most influential speakers’ neighborhoods into different heavily interlinked groups, which results in hierarchical clustering. Since the Girvan-Newman method encounters some problems when applied to some directed graphs with a special structure, then our approach is to treat a directed graph as undirected when using this method for community detection. We will use `modularity` to evaluate the quality of a community clustering.  
 
 In order to track the evolution and structure of communities over the time, we will use `Jaccard similarity`. 
 
