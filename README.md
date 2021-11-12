@@ -31,13 +31,13 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 ## Proposed Timeline and Organization With the Team:
 | Time | Work | Team Member |
 | ---- | ---- | ---- |
-| 1 Day | Our first step is to explore deeper and proceed with further data wrangling based on previous preprocessing results. | xxx |
-| 1 Day | Initially we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one and get a one-to-one correspondence between a name and a person. | xxx |
-| 3 Days | We are going to build graphs for different years from 2015 to 2020 and compare them. | xxx |
-| 4 Days | Then, our plan is to implement community clustering with the Girvan-Newman method and compare the evolution of communities in different years applying Jaccard similarity. We will use modularity to evaluate the quality of a community clustering. | xxx |
-| 2 Days | Our next step is to find the most influential people for each year applying a threshold to the in-degrees of the nodes. We are going to represent the relationships between the most authoritative speakers by means of a heatmap plot. | xxx |
-| 3 Days | Using the ‘occupation’ attribute of the .parquet file, we plan to find the proportion of politicians among the most influential speakers. Depending on the results, we will also check Qids corresponding to other occupations or align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set. | xxx |
-| 7 Days | The final step is to upload the read.me file and prepare the final data story by means of Jekyll. | All |
+| 26/11 | Our first step is to explore deeper and proceed with further data wrangling based on previous preprocessing results. | xxx |
+| 27/11 | Initially we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one and get a one-to-one correspondence between a name and a person. | xxx |
+| 28/11-30/11 | We are going to build graphs for different years from 2015 to 2020 and compare them. | xxx |
+| 01/12-04/12 | Then, our plan is to implement community clustering with the Girvan-Newman method and compare the evolution of communities in different years applying Jaccard similarity. We will use modularity to evaluate the quality of a community clustering. | xxx |
+| 05/12-06/12 | Our next step is to find the most influential people for each year applying a threshold to the in-degrees of the nodes. We are going to represent the relationships between the most authoritative speakers by means of a heatmap plot. | xxx |
+| 07/12-09/12 | Using the ‘occupation’ attribute of the .parquet file, we plan to find the proportion of politicians among the most influential speakers. Depending on the results, we will also check Qids corresponding to other occupations or align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set. | xxx |
+| 10/12-17/12 | The final step is to upload the read.me file and prepare the final data story by means of Jekyll. | All |
 
 ## References:
 1. Timoté Vaucher, Andreas Spitz, Michele Catasta, and Robert West. 2021. Quotebank: A Corpus of Quotations from a Decade of News. In The Four- teenth ACM International Conference on Web Search and Data Mining (WSDM ’21), March 8–12, 2021, Virtual Event, Israel. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3437963.3441760
