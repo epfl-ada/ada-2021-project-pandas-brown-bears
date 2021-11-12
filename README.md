@@ -32,7 +32,7 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 | Time | Work | Team Member |
 | ---- | ---- | ---- |
 | 26/11 | Our first step is to explore deeper and proceed with further data wrangling based on previous preprocessing results. | xxx |
-| 27/11 | Initially we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one and get a one-to-one correspondence between a name and a person. | xxx |
+| 27/11 | Initially, we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one and get a one-to-one correspondence between a name and a person. | xxx |
 | 28/11-30/11 | We are going to build graphs for different years from 2015 to 2020 and compare them. | xxx |
 | 01/12-04/12 | Then, our plan is to implement community clustering with the Girvan-Newman method and compare the evolution of communities in different years applying Jaccard similarity. We will use modularity to evaluate the quality of a community clustering. | xxx |
 | 05/12-06/12 | Our next step is to find the most influential people for each year applying a threshold to the in-degrees of the nodes. We are going to represent the relationships between the most authoritative speakers by means of a heatmap plot. | xxx |
