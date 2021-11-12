@@ -5,7 +5,9 @@ Influence has long been studied in the fields of sociology, communication, and p
 In this project, our intention is to reveal the unobvious relationships between the most authoritative speakers by creating a directed graph with weighted edges based on how much other people talk about a particular person according to Quotebank, a corpus of quotations attributed to the speakers who uttered them, extracted from news articles of 2015-2020. The graph will represent an “influence network” of Quotebank speakers. The world is small (recall “six degrees of separation”), especially for famous public figures, so we are also interested in how two seemingly unrelated people in different fields could be connected to each other.
 ## Research Questions:
 * What are the most authoritative people that other speakers talk about? 
+    - Introducing the new measure of “influence” defined as the number of mentions of the person by other speakers, we are interested in the fact who occupies the highest positions in the ranking based on this impact rate. 
 * What proportion of the most influential speakers are politicians? 
+    - Analysing the speakers with the largest number of quotes included in the datasets, we have seen that the most (almost all) of them are politicians. We want to inspect if this statement also holds for the most authoritative people in the graph. 
 * Does the number of speaker quotes in the dataset correlate with his/her influence? 
 * What hidden communities do the speakers form? How do they link together? 
 * How does the dynamic “influence network” evolve over 2015-2020 years?
