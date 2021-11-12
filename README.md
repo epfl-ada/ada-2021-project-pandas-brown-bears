@@ -29,7 +29,7 @@ In order to track the evolution and structure of communities over time, we will 
 Other characteristics of the graph that we plan to get are the connectivity of the directed graph and its in-degree distribution. As the “influence network” representation, we draw a graph using the NetworkX Python library, also we plan to show the relationships between the most authoritative persons by plotting a heatmap.
 
 ## Proposed Timeline and Organization With the Team:
-| Time | Work | Team Member |
+| Time | Work | Team Members |
 | ---- | ---- | ---- |
 | 26/11 | Our first step is to explore deeper and proceed with further data wrangling based on previous preprocessing results. | xxx |
 | 27/11 | Initially, we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one and get a one-to-one correspondence between a name and a person. | xxx |
