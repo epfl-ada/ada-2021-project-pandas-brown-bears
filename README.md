@@ -15,9 +15,8 @@ In order to determine the most influential people in the network, we will use `K
 |  Time   | Work  |
 |  ----  | ----  |
 | 11.26-12.02  | Our first step is to explore deeper and proceed with further data wrangling based on previous prepossessing results. We are going to build graphs for different years from 2015 to 2020 and compare them. So, we will be able to see how different parameters of the nodes with speakers and connections between them are changing depending on the year we analyse. In addition to the graph we are going to build a heatmap for a smaller number of speakers for each year.|
-| 12.03-12.09  | After that we will work with the `speaker_attributes.parquet` file and use the `aliases` attribute to combine different nodes corresponding to the same person in one. With the attribute `occupation` we will check whether this speaker is a politician or not. It will help us to estimate the fraction of politicians in our “influence network”. Depending on the results, we can also check other Qids corresponding to actors, religious leaders and others or we can align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set.
-|
-| 12.10-12.17  | 单元格 |
+| 12.03-12.09  | After that we will work with the `speaker_attributes.parquet` file and use the `aliases` attribute to combine different nodes corresponding to the same person in one. With the attribute `occupation` we will check whether this speaker is a politician or not. It will help us to estimate the fraction of politicians in our “influence network”. Depending on the results, we can also check other Qids corresponding to actors, religious leaders and others or we can align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set. |
+| 12.10-12.17  | xxx |
 ## Organization Within the Team:
 
 ## Questions for TAs (optional):
