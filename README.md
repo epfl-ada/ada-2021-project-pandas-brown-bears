@@ -20,13 +20,13 @@ In this project, our intention is to reveal the unobvious relationships between 
 Metadata about the speakers in the Quotebank dataset gathered in the `speaker_attributes.parquet` file. We will use it for detection of the same people called different ways in the Quotebank dataset (`aliases` feature) and for analysis of politicians' proportion among the most influential speakers (`occupation` feature).   
  
 ## Methods:
-In order to determine the most influential people in the network, we will use Katz centrality measure for directed graphs.
+In order to determine the most influential people in the network, we will use the Katz centrality measure for directed graphs.
 
-Further, we will apply a community detection algorithm named Girvan-Newman to decompose the most influential speakers’ neighborhood into different heavily interlinked groups, which results in a hierarchical clustering. Since the Girvan-Newman method encounters some problems when applied to some directed graphs with special structure, then our approach is to treat a directed graph as undirected when using this method for community detection. We will use modularity to evaluate the quality of a community clustering.
+Further, we will apply a community detection algorithm named Girvan-Newman to decompose the most influential speakers’ neighborhoods into different heavily interlinked groups, which results in hierarchical clustering. Since the Girvan-Newman method encounters some problems when applied to some directed graphs with a special structure, then our approach is to treat a directed graph as undirected when using this method for community detection. We will use modularity to evaluate the quality of a community clustering.
 
-In order to track the evolution and structure of communities over the time, we will use Jaccard similarity, which is a statistic used for gauging the similarity and diversity of sets.
+In order to track the evolution and structure of communities over time, we will use Jaccard similarity, which is a statistic used for gauging the similarity and diversity of sets.
 
-Other characteristics of the graph that we plan to get are connectivity of the directed graph and its in-degree distribution. As the “influence network” representation, we draw a graph using the NetworkX Python library, also we plan to show the relationships between the most authoritative persons by plotting a heatmap.
+Other characteristics of the graph that we plan to get are the connectivity of the directed graph and its in-degree distribution. As the “influence network” representation, we draw a graph using the NetworkX Python library, also we plan to show the relationships between the most authoritative persons by plotting a heatmap.
 
 ## Proposed Timeline and Organization With the Team:
 | Time | Work | Team Member |
