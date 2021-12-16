@@ -44,7 +44,7 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 | Anastasia | <ul><li>Preliminary data analysis;</li><li>Community analysis;</li><li>Creating the plots for the data story.</li></ul> |
 | Irina | <ul><li>Building the graph;</li><li>Plot description;</li><li>Data story composition.</li></ul> |
 | Yuhan | <ul><li>Politician proportion analysis;</li><li>Creating the plots for the data story;</li><li>Data story composition.</li></ul> |
-| Yuxiao |  <ul><li>Building the graph;</li><li>Construction of heatmap and degree plots;</li><li>Data story composition.</li></ul> |
+| Yuxiao |  <ul><li>Building the graph;</li><li>Construction of the heatmap and degree plots;</li><li>Data story composition.</li></ul> |
 
 ## References:
 1. Timoté Vaucher, Andreas Spitz, Michele Catasta, and Robert West. 2021. Quotebank: A Corpus of Quotations from a Decade of News. In The Four- teenth ACM International Conference on Web Search and Data Mining (WSDM ’21), March 8–12, 2021, Virtual Event, Israel. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3437963.3441760
