@@ -39,7 +39,7 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 | 10/12-17/12 | The final step is to upload the read.me file and prepare the final data story by means of Jekyll. | All |
 
 ## Contributions:
-| Team Member | Contibutions |
+| Team Member | Responsibilities |
 | ---- | ---- |
 | Anastasia | <ul><li>Preliminary data analysis;</li><li>Community analysis;</li><li>Creating the plots for the data story.</li></ul> |
 | Irina | <ul><li>Building the graph;</li><li>plot description;</li><li>data story composition.</li></ul> |
