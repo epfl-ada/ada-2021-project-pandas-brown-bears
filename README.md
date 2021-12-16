@@ -38,6 +38,14 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 | 07/12-09/12 | Using the ‘occupation’ attribute of the .parquet file, we plan to find the proportion of politicians among the most influential speakers. Depending on the results, we will also check Qids corresponding to other occupations or align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set. | Yuhan |
 | 10/12-17/12 | The final step is to upload the read.me file and prepare the final data story by means of Jekyll. | All |
 
+## Contributions:
+| Team Member | Contibutions |
+| ---- | ---- |
+| Anastasia | Preliminary data analysis, community analysis, plotting graphs for the data story |
+| Irina | Building the graph, plot description, data story composition |
+| Yuhan | Politician proportion analysis, plotting graphs for the data story, data story composition |
+| Yuxiao | Building the graph, construction of heatmap and degree plots, data story composition |
+
 ## References:
 1. Timoté Vaucher, Andreas Spitz, Michele Catasta, and Robert West. 2021. Quotebank: A Corpus of Quotations from a Decade of News. In The Four- teenth ACM International Conference on Web Search and Data Mining (WSDM ’21), March 8–12, 2021, Virtual Event, Israel. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3437963.3441760
 2. M. E. J. Newman, M. Girvan Finding and evaluating community structure in networks // Physical review E, 2004. Vol. 69.
