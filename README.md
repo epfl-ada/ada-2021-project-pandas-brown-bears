@@ -41,7 +41,7 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 ## Contributions:
 | Team Member | Contibutions |
 | ---- | ---- |
-| Anastasia | Preliminary data analysis, community analysis, plotting graphs for the data story |
+| Anastasia | * Preliminary data analysis * Community analysis, plotting graphs for the data story |
 | Irina | Building the graph, plot description, data story composition |
 | Yuhan | Politician proportion analysis, plotting graphs for the data story, data story composition |
 | Yuxiao | Building the graph, construction of heatmap and degree plots, data story composition |
