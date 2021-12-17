@@ -34,7 +34,7 @@ Other characteristics of the graph that we plan to get are the connectivity of t
 | 26/11 | Initially, we will work with the `speaker_attributes.parquet` file and use the ‘aliases’ attribute to combine different nodes corresponding to the same person in one node and get a one-to-one correspondence between a name and a person. | Irina |
 | 27/11-29/11 | We are going to build graphs for different years from 2015 to 2020 and compare them. | Irina & Yuxiao  |
 | 30/11-03/12 | Then, our plan is to implement community clustering with the Girvan-Newman method and compare the evolution of communities in different years applying Jaccard similarity. We will use modularity to evaluate the quality of a community clustering. | Anastasia & Yuhan |
-| 04/12-06/12 | Our next step is to find the most influential people for each year applying a threshold to the in-degrees of the nodes. We are going to represent the relationships between the most authoritative speakers by means of a heatmap plot. | Yuxiao |
+| 04/12-06/12 | Our next step is to find the most influential people for each year applying a threshold to the Katz centrality of the nodes. We are going to represent the relationships between the most authoritative speakers by means of a heatmap plot. | Yuxiao |
 | 07/12-09/12 | Using the ‘occupation’ attribute of the .parquet file, we plan to find the proportion of politicians among the most influential speakers. Depending on the results, we will also check Qids corresponding to other occupations or align the ‘occupation’ attribute manually if there are only a few exceptions in the speakers’ set. | Yuhan |
 | 10/12-17/12 | The final step is to upload the read.me file and prepare the final data story by means of Jekyll. | All |
 
