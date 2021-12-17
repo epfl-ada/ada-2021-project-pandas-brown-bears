@@ -1,4 +1,8 @@
 # Title: “Influence network” hidden in Quotebank
+
+## Data Story:
+[“Influence network” hidden in Quotebank](https://popkova-a.github.io/ADA-data-story-2021/)
+
 ## Abstract:
 Influence has long been studied in the fields of sociology, communication, and political science. Traditional communication theory states that a minority, called influentials, excels in persuading others. Generally, more quotations of a person indicate more impact of this speaker or at least his/her higher exposure to the public. 
 
